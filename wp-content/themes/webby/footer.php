@@ -7,9 +7,10 @@
  */
 ?>
 
-</div>
-
-	<footer id="colophon" class="site-footer">
+	<footer id="" class="page-footer">
+        <div class="text-center py-3">
+            <p>Built with love by us!</p>
+        </div>
 	</footer>
 
 </div>

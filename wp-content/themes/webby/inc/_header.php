@@ -13,7 +13,7 @@
         margin: 0;
     }
 
-    nav {
+    nav, .page-footer {
        background-color:  rgba(236, 164, 166, 1);
     }
     .full-height {
@@ -28,6 +28,10 @@
     .home * {
         font-family: 'Roboto', sans-serif;
         color: white;
+    }
+
+    .home .page-footer * {
+        color: black;
     }
 
 	body {
@@ -90,17 +94,6 @@
         position: relative;
         margin: 0 auto;
         width : 20px;
-    }
-
-    .w-ul-100:after {
-        background : none repeat scroll 0 0 white;
-        bottom: -5px;
-        content: "";
-        display: block;
-        height: 2px;
-        position: relative;
-        margin : 0;
-        width: 100%;
     }
 
     .no-dot {

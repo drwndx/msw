@@ -56,8 +56,6 @@ get_header();
             <p>Smokers, Mike's grandmother will be in attendance and does need to use oxygen. Be respectful.  We will have an easily accessible smoking area.</p>
 
             <p>There will be an open, serve yourself approach to the drinks for the evening. Please drink plenty of water alongside your adult beverages.</p>
-
-            <p>We respectfully request that usage of extra curricular life experience enhancers be enjoyed well away from the wedding.</p>
         </div>
     </div>
 </div>
