@@ -4,7 +4,7 @@
 
 get_header();
 ?>
-<div class="container text-center full-height">
+<div class="container text-center full-height shady">
     <div class="row text-center">
         <div class="col-12">
             <section class="announcement"  style="padding-top : 100px;">
@@ -26,7 +26,9 @@ get_header();
                     <div id="clock-c"></div>
                 </div>
             </div>
-
+        </div>
+        <div class="col-12 text-center">
+            <p>#msw2019</p>
         </div>
     </div>
     <div class="row">

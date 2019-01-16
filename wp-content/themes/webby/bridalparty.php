@@ -5,7 +5,7 @@
 get_header();
 ?>
 
-<div class="container full-height">
+<div class="container">
     <div class="row">
         <div class="col">
             <section id="primary" class="content-area">

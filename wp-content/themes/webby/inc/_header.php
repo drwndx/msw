@@ -13,17 +13,25 @@
         margin: 0;
     }
 
+    nav {
+       background-color:  rgba(236, 164, 166, 1);
+    }
     .full-height {
         height: 100%;
         min-height: 800px;
     }
 	* {
 		font-family: 'Roboto', sans-serif;
-        color: white;
+        color: black;
 	}
 
+    .home * {
+        font-family: 'Roboto', sans-serif;
+        color: white;
+    }
+
 	body {
-		background-color: rgba(237, 201, 175,1);
+		background-color: rgba(249, 213, 211, 1);
 	}
 
 	.navbar a, h1, h2, h3, h4, h5, h6 {
@@ -43,13 +51,30 @@
         background-size: cover;
     }
 
-    .home .container {
+    .shady {
         background-color: rgba(0, 0, 0, 0.50);
+
+    }
+    .card {
+        background-color: rgba(187, 199, 186, 1);
+        border: none;
     }
 
-    .card {
-        background-color: rgba(0, 0, 0, 0.50);
-        border: none;
+    h1 {
+        padding-top: 100px;
+        text-align: center;
+        padding-bottom: 25px;
+    }
+
+    h1:after {
+        background: none repeat scroll 0 0 #BBC7BA;
+        bottom: -5px;
+        content: "";
+        display: block;
+        height: 2px;
+        position: relative;
+        margin: 0;
+        width: 100%;
     }
 
     .home h1 {
@@ -77,36 +102,39 @@
         margin : 0;
         width: 100%;
     }
-</style>
-<div class="container">
-	<div class="row">
-		<div class="col">
-			<nav class="navbar navbar-expand-lg navbar-dark">
-				<a class="navbar-brand" href="/">MSW2019</a>
-				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-					<span class="navbar-toggler-icon"></span>
-				</button>
 
-				<div class="collapse navbar-collapse" id="navbarSupportedContent">
-					<ul class="navbar-nav mr-auto">
-						<li class="nav-item active">
-							<a class="nav-link" href="/">Home</a>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link" href="/couple/">The Couple</a>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link" href="/bridal-party/">The Bridal Party</a>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link" href="/clementine/">The Clementine</a>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link" href="/registry">The Registry</a>
-						</li>
-					</ul>
-				</div>
-			</nav>
-		</div>
-	</div>
-</div>
+    .no-dot {
+        list-style:none;
+    }
+</style>
+<nav class="navbar navbar-expand-lg navbar-light fixed-top">
+    <div class="container">
+        <a class="navbar-brand" href="/">MSW2019</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/information/">The Deets</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/couple/">The Couple</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/bridal-party/">The Bridal Party</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/clementine/">The Clementine</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/registry">The Registry</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>

@@ -10,7 +10,7 @@ get_header();
         <div class="col">
             <section id="primary" class="content-area">
                 <main id="registry" class="registry-main">
-                    <h1>Our registry</h1>
+                    <h1>Our Registry</h1>
                     <h2>Where are we registered?</h2>
                     <p>After heavy discussion about our wedding and life, we have chosen not to have an official wedding registry. We will graciously accept any gifts.</p>
                     <h2>Why is that?!</h2>
