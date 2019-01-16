@@ -29,7 +29,7 @@
 	<meta property="twitter:description" content="mikeandsarahwed2019" />
 	<meta itemprop="description" content="mikeandsarahwed2019" />
 
-	<title>Webby Web Web</title>
+	<title>Mike and Sarah Wedding</title>
 </head>
 
 <body <?php body_class(); ?>>

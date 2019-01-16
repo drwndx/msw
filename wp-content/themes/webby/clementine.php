@@ -21,7 +21,7 @@ get_header();
                 <img class="card-img-top" src="/wp-content/themes/webby/assets/clementine.png">
                 <div class="card-body">
                     <p class="card-text">
-                        bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon.
+                        Clementine has endorsed this union, provided she will continue to be fed.
                     </p>
                 </div>
             </div>

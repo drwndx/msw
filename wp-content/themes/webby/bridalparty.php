@@ -20,8 +20,8 @@ get_header();
             <div class="card flex-md-row mb-4 shadow-sm h-md-250">
                 <img class="card-img-left flex-auto d-none d-lg-block" data-src="https://via.placeholder.com/200x250" style="width: 200px; height: 250px;" src="https://via.placeholder.com/200x250" rendered="true">
                 <div class="card-body d-flex flex-column align-items-start">
-                    <h2 class="w-ul-100">Dudette</h2>
-                    <p class="card-text mb-auto">bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon.</p>
+                    <h2 class="w-ul-100">Maria</h2>
+                    <p class="card-text mb-auto">Maid of Honor</p>
                 </div>
             </div>
         </div>
@@ -29,7 +29,7 @@ get_header();
             <div class="card flex-md-row mb-4 shadow-sm h-md-250">
                 <div class="card-body d-flex flex-column align-items-start">
                     <h2 class="w-ul-100">Rick</h2>
-                    <p class="card-text mb-auto">bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon.</p>
+                    <p class="card-text mb-auto">Best Man</p>
                 </div>
                 <img class="card-img-right flex-auto d-none d-lg-block" data-src="https://via.placeholder.com/200x250" style="width: 200px; height: 250px;" src="https://via.placeholder.com/200x250" rendered="true">
             </div>
@@ -40,8 +40,8 @@ get_header();
             <div class="card flex-md-row mb-4 shadow-sm h-md-250">
                 <img class="card-img-left flex-auto d-none d-lg-block" data-src="https://via.placeholder.com/200x250" style="width: 200px; height: 250px;" src="https://via.placeholder.com/200x250" rendered="true">
                 <div class="card-body d-flex flex-column align-items-start">
-                    <h2 class="w-ul-100">Dudette</h2>
-                    <p class="card-text mb-auto">bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon.</p>
+                    <h2 class="w-ul-100">Lynette</h2>
+                    <p class="card-text mb-auto">Bridesmaid</p>
                 </div>
             </div>
         </div>
@@ -49,7 +49,7 @@ get_header();
             <div class="card flex-md-row mb-4 shadow-sm h-md-250">
                 <div class="card-body d-flex flex-column align-items-start">
                     <h2 class="w-ul-100">William</h2>
-                    <p class="card-text mb-auto">bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon.</p>
+                    <p class="card-text mb-auto">Groomsman</p>
                 </div>
                 <img class="card-img-right flex-auto d-none d-lg-block" data-src="https://via.placeholder.com/200x250" style="width: 200px; height: 250px;" src="https://via.placeholder.com/200x250" rendered="true">
             </div>
@@ -60,8 +60,8 @@ get_header();
             <div class="card flex-md-row mb-4 shadow-sm h-md-250">
                 <img class="card-img-left flex-auto d-none d-lg-block" data-src="https://via.placeholder.com/200x250" style="width: 200px; height: 250px;" src="https://via.placeholder.com/200x250" rendered="true">
                 <div class="card-body d-flex flex-column align-items-start">
-                    <h2 class="w-ul-100">Dudette</h2>
-                    <p class="card-text mb-auto">bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon.</p>
+                    <h2 class="w-ul-100">Cyndi</h2>
+                    <p class="card-text mb-auto">Bridesmaid</p>
                 </div>
             </div>
         </div>
@@ -69,7 +69,7 @@ get_header();
             <div class="card flex-md-row mb-4 shadow-sm h-md-250">
                 <div class="card-body d-flex flex-column align-items-start">
                     <h2 class="w-ul-100">Robert</h2>
-                    <p class="card-text mb-auto">bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon.</p>
+                    <p class="card-text mb-auto">Groomsman</p>
                 </div>
                 <img class="card-img-right flex-auto d-none d-lg-block" data-src="https://via.placeholder.com/200x250" style="width: 200px; height: 250px;" src="https://via.placeholder.com/200x250" rendered="true">
             </div>
@@ -80,8 +80,8 @@ get_header();
             <div class="card flex-md-row mb-4 shadow-sm h-md-250">
                 <img class="card-img-left flex-auto d-none d-lg-block" data-src="https://via.placeholder.com/200x250" style="width: 200px; height: 250px;" src="https://via.placeholder.com/200x250" rendered="true">
                 <div class="card-body d-flex flex-column align-items-start">
-                    <h2 class="w-ul-100">Dudette</h2>
-                    <p class="card-text mb-auto">bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon.</p>
+                    <h2 class="w-ul-100">Kim</h2>
+                    <p class="card-text mb-auto">Bridesmaid</p>
                 </div>
             </div>
         </div>
@@ -89,7 +89,7 @@ get_header();
             <div class="card flex-md-row mb-4 shadow-sm h-md-250">
                 <div class="card-body d-flex flex-column align-items-start">
                     <h2 class="w-ul-100">Mike</h2>
-                    <p class="card-text mb-auto">bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon.</p>
+                    <p class="card-text mb-auto">Groomsman</p>
                 </div>
                 <img class="card-img-right flex-auto d-none d-lg-block" data-src="https://via.placeholder.com/200x250" style="width: 200px; height: 250px;" src="https://via.placeholder.com/200x250" rendered="true">
             </div>
@@ -100,16 +100,16 @@ get_header();
             <div class="card flex-md-row mb-4 shadow-sm h-md-250">
                 <img class="card-img-left flex-auto d-none d-lg-block" data-src="https://via.placeholder.com/200x250" style="width: 200px; height: 250px;" src="https://via.placeholder.com/200x250" rendered="true">
                 <div class="card-body d-flex flex-column align-items-start">
-                    <h2 class="w-ul-100">Dudette</h2>
-                    <p class="card-text mb-auto">bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon.</p>
+                    <h2 class="w-ul-100">Jackie</h2>
+                    <p class="card-text mb-auto">Bridesmaid</p>
                 </div>
             </div>
         </div>
         <div class="col-6">
             <div class="card flex-md-row mb-4 shadow-sm h-md-250">
                 <div class="card-body d-flex flex-column align-items-start">
-                    <h2 class="w-ul-100">Dude</h2>
-                    <p class="card-text mb-auto">bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon.</p>
+                    <h2 class="w-ul-100">Bobby</h2>
+                    <p class="card-text mb-auto">Groomsman</p>
                 </div>
                 <img class="card-img-right flex-auto d-none d-lg-block" data-src="https://via.placeholder.com/200x250" style="width: 200px; height: 250px;" src="https://via.placeholder.com/200x250" rendered="true">
             </div>

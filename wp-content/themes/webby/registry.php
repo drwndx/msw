@@ -12,11 +12,13 @@ get_header();
                 <main id="registry" class="registry-main">
                     <h1>Our registry</h1>
                     <h2>Where are we registered?</h2>
-                    <p>Bacon ipsum dolor amet jerky ground round salami brisket beef ribs meatloaf. Brisket pig turkey landjaeger, jowl flank pastrami corned beef sausage alcatra bresaola jerky. Hamburger porchetta chicken, boudin strip steak andouille alcatra doner pig. Pork chop rump ribeye tri-tip pork turkey. Kielbasa pork loin frankfurter, spare ribs andouille picanha pancetta pork chop landjaeger brisket sirloin.</p>
+                    <p>After heavy discussion about our wedding and life, we have chosen not to have an official wedding registry. We will graciously accept any gifts.</p>
                     <h2>Why is that?!</h2>
-                    <p>Andouille chuck boudin hamburger jerky. Biltong flank venison, pancetta pork loin meatloaf jowl ribeye drumstick chicken. Burgdoggen tri-tip rump biltong tenderloin shank sausage hamburger. Kielbasa rump shankle ribeye burgdoggen tenderloin. Cow prosciutto cupim burgdoggen, pork loin frankfurter ball tip meatloaf tongue pork belly leberkas t-bone kevin sausage. Drumstick tri-tip ham hock pork. Kevin kielbasa ham hock chuck t-bone.</p>
+                    <p>We have been a couple for quite a long time and came into the relationship with nearly two full sets of everything a couple would need in order to have a functioning household.</p>
                     <h2>What can you do instead?</h2>
-                    <p>Venison brisket kielbasa andouille frankfurter chicken, shankle pig prosciutto kevin. Beef drumstick tail shankle t-bone ground round pork loin jerky. Pork meatloaf chicken shank beef ribs pork loin short loin andouille. Filet mignon hamburger pork chop corned beef. Corned beef bacon shoulder, pork chuck turducken venison cupim tri-tip buffalo. Flank strip steak swine leberkas sausage andouille landjaeger meatloaf boudin.</p>
+                    <p>Anything you like.  We will graciously accept any all gifts that you personally feel we would enjoy and/or need as newly married couple.<!--Additionally, we do have our eyes already set on the next big milestones for our lives. If you would like to endorse those milestones, we do have these options:--></p>
+                    <div>
+                    </div>
                 </main>
             </section>
         </div>
